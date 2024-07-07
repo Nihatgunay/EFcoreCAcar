@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\EFcoremanytomanyMAIN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A81AA270-A7EB-4D29-B439-234F4DA1B774}|EFcoremanytomanyMAIN\\EFcoremanytomanyMAIN.csproj|c:\\users\\lenovo\\source\\repos\\efcoremanytomanymain\\efcoremanytomanymain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81AA270-A7EB-4D29-B439-234F4DA1B774}|EFcoremanytomanyMAIN\\EFcoremanytomanyMAIN.csproj|solutionrelative:efcoremanytomanymain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81AA270-A7EB-4D29-B439-234F4DA1B774}|EFcoremanytomanyMAIN\\EFcoremanytomanyMAIN.csproj|c:\\users\\lenovo\\source\\repos\\efcoremanytomanymain\\efcoremanytomanymain\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81AA270-A7EB-4D29-B439-234F4DA1B774}|EFcoremanytomanyMAIN\\EFcoremanytomanyMAIN.csproj|solutionrelative:efcoremanytomanymain\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81AA270-A7EB-4D29-B439-234F4DA1B774}|EFcoremanytomanyMAIN\\EFcoremanytomanyMAIN.csproj|c:\\users\\lenovo\\source\\repos\\efcoremanytomanymain\\efcoremanytomanymain\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81AA270-A7EB-4D29-B439-234F4DA1B774}|EFcoremanytomanyMAIN\\EFcoremanytomanyMAIN.csproj|solutionrelative:efcoremanytomanymain\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81AA270-A7EB-4D29-B439-234F4DA1B774}|EFcoremanytomanyMAIN\\EFcoremanytomanyMAIN.csproj|c:\\users\\lenovo\\source\\repos\\efcoremanytomanymain\\efcoremanytomanymain\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81AA270-A7EB-4D29-B439-234F4DA1B774}|EFcoremanytomanyMAIN\\EFcoremanytomanyMAIN.csproj|solutionrelative:efcoremanytomanymain\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81AA270-A7EB-4D29-B439-234F4DA1B774}|EFcoremanytomanyMAIN\\EFcoremanytomanyMAIN.csproj|c:\\users\\lenovo\\source\\repos\\efcoremanytomanymain\\efcoremanytomanymain\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81AA270-A7EB-4D29-B439-234F4DA1B774}|EFcoremanytomanyMAIN\\EFcoremanytomanyMAIN.csproj|solutionrelative:efcoremanytomanymain\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81AA270-A7EB-4D29-B439-234F4DA1B774}|EFcoremanytomanyMAIN\\EFcoremanytomanyMAIN.csproj|c:\\users\\lenovo\\source\\repos\\efcoremanytomanymain\\efcoremanytomanymain\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81AA270-A7EB-4D29-B439-234F4DA1B774}|EFcoremanytomanyMAIN\\EFcoremanytomanyMAIN.csproj|solutionrelative:efcoremanytomanymain\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\source\\repos\\EFcoremanytomanyMAIN\\EFcoremanytomanyMAIN\\Migrations\\20240706105131_CarColoragain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EFcoremanytomanyMAIN\\Migrations\\20240706105131_CarColoragain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81AA270-A7EB-4D29-B439-234F4DA1B774}|EFcoremanytomanyMAIN\\EFcoremanytomanyMAIN.csproj|c:\\users\\lenovo\\source\\repos\\efcoremanytomanymain\\efcoremanytomanymain\\carscolors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81AA270-A7EB-4D29-B439-234F4DA1B774}|EFcoremanytomanyMAIN\\EFcoremanytomanyMAIN.csproj|solutionrelative:efcoremanytomanymain\\carscolors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240706105131_CarColoragain.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EFcoremanytomanyMAIN\\EFcoremanytomanyMAIN\\Migrations\\20240706105131_CarColoragain.cs",
+              "RelativeDocumentMoniker": "EFcoremanytomanyMAIN\\Migrations\\20240706105131_CarColoragain.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EFcoremanytomanyMAIN\\EFcoremanytomanyMAIN\\Migrations\\20240706105131_CarColoragain.cs",
+              "RelativeToolTip": "EFcoremanytomanyMAIN\\Migrations\\20240706105131_CarColoragain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T10:51:32.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EFcoremanytomanyMAIN\\EFcoremanytomanyMAIN\\DataContext.cs",
+              "RelativeDocumentMoniker": "EFcoremanytomanyMAIN\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EFcoremanytomanyMAIN\\EFcoremanytomanyMAIN\\DataContext.cs",
+              "RelativeToolTip": "EFcoremanytomanyMAIN\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T18:41:46.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarsColors.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EFcoremanytomanyMAIN\\EFcoremanytomanyMAIN\\CarsColors.cs",
+              "RelativeDocumentMoniker": "EFcoremanytomanyMAIN\\CarsColors.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EFcoremanytomanyMAIN\\EFcoremanytomanyMAIN\\CarsColors.cs",
+              "RelativeToolTip": "EFcoremanytomanyMAIN\\CarsColors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T18:40:51.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EFcoremanytomanyMAIN\\EFcoremanytomanyMAIN\\Car.cs",
+              "RelativeDocumentMoniker": "EFcoremanytomanyMAIN\\Car.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EFcoremanytomanyMAIN\\EFcoremanytomanyMAIN\\Car.cs",
+              "RelativeToolTip": "EFcoremanytomanyMAIN\\Car.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T18:40:41.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EFcoremanytomanyMAIN\\EFcoremanytomanyMAIN\\Color.cs",
+              "RelativeDocumentMoniker": "EFcoremanytomanyMAIN\\Color.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EFcoremanytomanyMAIN\\EFcoremanytomanyMAIN\\Color.cs",
+              "RelativeToolTip": "EFcoremanytomanyMAIN\\Color.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T18:40:31.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EFcoremanytomanyMAIN\\EFcoremanytomanyMAIN\\Model.cs",
+              "RelativeDocumentMoniker": "EFcoremanytomanyMAIN\\Model.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EFcoremanytomanyMAIN\\EFcoremanytomanyMAIN\\Model.cs",
+              "RelativeToolTip": "EFcoremanytomanyMAIN\\Model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T18:40:21.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EFcoremanytomanyMAIN\\EFcoremanytomanyMAIN\\Brand.cs",
+              "RelativeDocumentMoniker": "EFcoremanytomanyMAIN\\Brand.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EFcoremanytomanyMAIN\\EFcoremanytomanyMAIN\\Brand.cs",
+              "RelativeToolTip": "EFcoremanytomanyMAIN\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T18:40:10.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\EFcoremanytomanyMAIN\\EFcoremanytomanyMAIN\\Program.cs",
+              "RelativeDocumentMoniker": "EFcoremanytomanyMAIN\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\EFcoremanytomanyMAIN\\EFcoremanytomanyMAIN\\Program.cs",
+              "RelativeToolTip": "EFcoremanytomanyMAIN\\Program.cs",
+              "ViewState": "AQIAAPMAAAAAAAAAAAAcwCcBAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T18:39:25.267Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
